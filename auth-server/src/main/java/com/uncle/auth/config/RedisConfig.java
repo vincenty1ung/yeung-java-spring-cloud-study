@@ -19,7 +19,7 @@ import java.time.Duration;
 /**
  * @author 杨戬
  * @className RedisConfig
- * @email yangb@chaosource.com
+ * @email uncle.yeung.bo@gmail.com
  * @date 19-9-2 13:41
  */
 @Configuration

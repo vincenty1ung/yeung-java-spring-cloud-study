@@ -11,7 +11,7 @@ import javax.annotation.Resource;
 /**
  * @author 杨戬
  * @className ConsumerController
- * @email yangb@chaosource.com
+ * @email uncle.yeung.bo@gmail.com
  * @date 19-9-2 17:25
  */
 @RestController

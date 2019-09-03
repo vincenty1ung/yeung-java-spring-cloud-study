@@ -19,7 +19,7 @@ import org.springframework.security.oauth2.provider.token.store.redis.RedisToken
 /**
  * @author 杨戬
  * @className OAuth2ServerConfig
- * @email yangb@chaosource.com
+ * @email uncle.yeung.bo@gmail.com
  * @date 19-9-2 11:28
  */
 public class OAuth2ServerConfig {

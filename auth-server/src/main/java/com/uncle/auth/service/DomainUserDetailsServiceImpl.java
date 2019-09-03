@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 /**
  * @author 杨戬
  * @className DomainUserDetailsServiceImpl
- * @email yangb@chaosource.com
+ * @email uncle.yeung.bo@gmail.com
  * @date 19-9-2 11:23
  */
 @Service("userDetailsService")

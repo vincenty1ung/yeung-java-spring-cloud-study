@@ -7,7 +7,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * @author 杨戬
  * @className ConsumerConfig
- * @email yangb@chaosource.com
+ * @email uncle.yeung.bo@gmail.com
  * @date 19-9-2 17:29
  */
 @Configuration
